@@ -1,0 +1,120 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: black;
+}
+.header{
+    background-color: black;
+    width: 100%;
+    height: 230px;
+    display: flex;
+    justify-content: center;
+
+}
+.logo{
+    color: #b7b7b7;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 2.5px;
+    line-height: 22px;
+    margin: 20px;
+}
+#logo-1{
+    font-size: 13px;
+    font-family: sans-serif;
+    letter-spacing: 6px;
+    position: relative;
+    bottom: 4px;
+
+}
+#underline{
+    border-top: #7a7a7a solid 1px;
+    width: 70%;
+    position: absolute;
+    top: 10rem;
+    
+}
+
+.header-text{
+    color: white;
+    position: absolute;
+    top: 155px;
+    font-family: monospace;
+    font-size: large;
+    display: flex;
+    letter-spacing: 2.5px;
+}
+section{
+
+    width: 100%;
+    background: black;  
+    display: flex;  
+    justify-content: center;
+    align-items: start;
+
+}
+
+
+#candy{
+    width:100%;
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    font-family: fangsong;
+}
+.img-1 img{
+    width: 840px;
+}
+#text{
+    color: white;
+    font-size: 27px;
+}
+.text-1{
+    color: #7a7a7a;
+    line-height: 35px;
+    font-size: 21px;
+    text-align: start;
+    padding: 15px 23%;
+    font-family: sans-serif;
+}
+.image-box{
+   
+    background:black;
+    justify-content: center;
+    display:flex;
+    width:100%;
+    position: relative;
+    top: 70px;
+
+}
+.img-2{
+    padding-right: 50px;
+}
+.image-box-2{
+    background:black;
+    justify-content: center;
+    display:flex;
+    width:100%;
+    
+
+}
+footer{
+    background:black;
+    width: 100%;
+    height:235px;
+    text-align: center;
+    color: black;
+
+}
+.footer-text{
+    color: #7a7a7a;
+    position: relative;
+    top: 175px;
+    font-size: 13px;
+    font-family: "Open Sans", sans-serif;
+
+} 
+
+
+
+
